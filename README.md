@@ -1,8 +1,7 @@
 ### Hi, i'm João Gabriel and I am a student of Electrical Engineering
 
 - ⚡ Currently, I am studying Electrical Engineering at the University of Espírito Santo.
-- 📝 I am studying independently/self-taugh Python, Computer Vision, C, C++, Java, Ruby On Rails, Database, and
-recently, I started studying machine learning. 😎
+- 📝 I am studying independently/self-taugh Python, Computer Vision, C, C++, C# Java, Data Science and FullStack applicactions
 - 📫 e-mail: joaogabriel.sc99@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoGabrielSC&show_icons=true&theme=transparent)
@@ -10,7 +9,7 @@ recently, I started studying machine learning. 😎
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Matlab" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"
   <img align="center" alt="Joao-Matlab" height="30" width="40"       
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
   <img align="center" alt="Joao-Matlab" height="30" width="40"
@@ -18,11 +17,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Joao-Matlab" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Joao-Matlab" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg">
-  <img align="center" alt="Joao-Matlab" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="Joao-Matlab" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
  
 ##
