@@ -4,9 +4,6 @@
 - 📝 I am studying independently/self-taugh Python, Computer Vision, Embedded Systems, C, C++, C# Java, Data Science and FullStack applicactions
 - 📫 e-mail: joaogabriel.sc99@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoGabrielSC&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabrielSC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Matlab" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"
