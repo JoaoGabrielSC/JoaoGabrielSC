@@ -1,7 +1,7 @@
 ### Hi, i'm João Gabriel and I am a student of Electrical Engineering
 
 - ⚡ Currently, I am studying Electrical Engineering at the University of Espírito Santo.
-- 📝 I am studying independently/self-taugh Python, Computer Vision, Embedded Systems, C, C++, Rust, Data Science and learning FullStack applicactions
+- 📝 I am studying independently/self-taugh Python, Computer Vision, Embedded Systems, C, C++, Data Science and learning FullStack applicactions
 - 📫 e-mail: joaogabriel.sc99@gmail.com
 
 <div>
