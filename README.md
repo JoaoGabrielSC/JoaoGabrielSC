@@ -27,6 +27,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/micro
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40"
 src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg">
+  <img align="center" alt="TypeScript" height="30" width="40"
+src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">
+  <img align="center" alt="TypeScript" height="30" width="40"
+src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
+  <img align="center" alt="TypeScript" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" >
 </div>
 
 ## How to contact me
