@@ -5,12 +5,6 @@
 - 📝 Python, Typescript, Rust, C, C++, Computer Vision, Embedded Systems, Data Science and FullStack applicactions
 - 📫 e-mail: joaogabriel.sc99@gmail.com
 
-<div>
-  <a href="https://github.com/JoaoGabrielSC">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabrielSC&layout=compact&langs_count=8&theme=github_dark"/>
-  </a>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="python" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
