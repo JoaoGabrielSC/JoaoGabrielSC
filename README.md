@@ -1,6 +1,6 @@
 ### Hi, i'm João Gabriel and I am a Software Engineer
 
-- Jr. Software Engineer at C&R Consultoria
+- Software Engineer II at C&R Consultoria
 - ⚡ studying Electrical Engineering at the University of Espírito Santo.
 - 📝 Python, Typescript, Rust, C, C++, Computer Vision, Embedded Systems, Data Science and FullStack applicactions
 - 📫 e-mail: joaogabriel.sc99@gmail.com
