@@ -1,4 +1,4 @@
-### Hi, i'm João Gabriel and I am a Software Engineer
+### Hi, i'm João Gabriel and I am a Senior Software Engineer
 
 - Senior Software Engineer I at WideLabs
 - ⚡ studying Electrical Engineering at the University of Espírito Santo.
