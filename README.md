@@ -1,6 +1,6 @@
 ### Hi, i'm João Gabriel and I am a Software Engineer
 
-- Software Engineer II at C&R Consultoria
+- Senior Software Engineer I at WideLabs
 - ⚡ studying Electrical Engineering at the University of Espírito Santo.
 - 📝 Python, Typescript, Rust, C, C++, Computer Vision, Embedded Systems, Data Science and FullStack applicactions
 - 📫 e-mail: joaogabriel.sc99@gmail.com
